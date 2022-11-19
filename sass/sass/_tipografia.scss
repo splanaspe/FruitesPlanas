@@ -1,0 +1,10 @@
+@use "colors";
+
+
+.format-title{
+    color: colors.$title-color; 
+}
+
+.format-subtitle{
+    color: colors.$subtitle-color;
+}

@@ -1,0 +1,39 @@
+.container-header {
+  display: flex;
+  height: 5rem;
+  padding: 3rem;
+  justify-content: space-around;
+  gap: 0.5rem;
+}
+.container-header:hover {
+  background-color: #f3eded;
+}
+
+.navbar {
+  height: 2rem;
+}
+
+.format-title {
+  color: rgb(149, 99, 6);
+}
+
+.format-subtitle {
+  color: orange;
+}
+
+html {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #d1eda2;
+  margin: 0;
+  padding: 0;
+}
+
+hr {
+  margin: 0;
+}
+
+/*# sourceMappingURL=index.css.map */
