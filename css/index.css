@@ -27,7 +27,7 @@
 .menu-sup .btn-menu-sup {
   border: none;
   font-size: 1rem;
-  border-radius: 10%;
+  border-radius: 15px;
   width: 5rem;
   height: 3rem;
   background-color: white;
@@ -105,7 +105,7 @@
 }
 .sec-descripcio-cta .btn-inferior-caixa .btn-historia {
   border: none;
-  border-radius: 10%;
+  border-radius: 15px;
   width: 4rem;
   height: 2rem;
   background-color: white;
@@ -120,7 +120,7 @@
 }
 
 html {
-  margin: 0;
+  margin: auto;
   margin-bottom: 2rem;
 }
 
