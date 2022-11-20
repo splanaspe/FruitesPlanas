@@ -4,15 +4,11 @@
 
 html {
     margin: 0;
-    padding: 0;
+    margin-bottom: 2rem;
 }
 
 body {
-    background-color: colors.$page-bg-color;
+    background-color: colors.$bg-color-page;
     margin: 0;
     padding: 0;
-}
-
-hr{
-    margin:0;
 }

@@ -1,0 +1,29 @@
+@use "colors";
+
+
+@mixin btn-standard(){
+    border: none;
+    font-size: 1rem;
+    border-radius: 10%;
+    width: 5rem;
+    height: 3rem;
+    background-color: colors.$bg-color-page;
+    color: colors.$color-main;
+    &:hover {
+        color: colors.$color-main-2;
+        background-color: colors.$color-main;
+    }
+}
+
+@mixin btn-standard-2(){
+    border: none;
+    border-radius: 10%;
+    width: 4rem;
+    height: 2rem;
+    background-color: colors.$bg-color-page;
+    color: colors.$color-main-2;
+    &:hover {
+        color: colors.$color-main;
+        background-color: colors.$color-main-2;
+    }
+}
